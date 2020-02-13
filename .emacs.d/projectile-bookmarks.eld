@@ -1,0 +1,1 @@
+("~/fpga_cores/" "~/RISC-V-CPU/" "~/ECEC621/" "~/FPGA-Tcl-Scripts/" "~/CS283/" "~/ECEC355/" "~/g2-NickSica/" "~/l2-NickSica/" "~/neuromorphic_computing/unet-git/" "~/neuromorphic_computing/SimpleNeuralNetwork/" "~/g1-NickSica/" "~/Iosevka/" "~/VIP/" "~/l1-NickSica/" "~/ECEC302/" "~/ChameleonWM/" "~/windowsmanager/" "~/wlr-protocols/" "~/nerd-fonts/" "~/emacs_config_copy/")

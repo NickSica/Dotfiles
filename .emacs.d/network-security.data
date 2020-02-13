@@ -1,0 +1,4 @@
+(
+ (:id "sha1:24c7a1e6369fef1e50de1deb1a9e5bbc68f80c8b" :fingerprint "sha1:f6:c0:3e:f6:f7:4e:28:64:9b:eb:9b:4a:d0:65:b5:24:17:eb:51:47" :host "orgmode.org:443" :conditions (:no-host-match))
+ (:id "sha1:85b31c268009209a8d3c5387033b219264f7e62b" :fingerprint "sha1:f6:c0:3e:f6:f7:4e:28:64:9b:eb:9b:4a:d0:65:b5:24:17:eb:51:47" :host "melpa.org:443" :conditions (:no-host-match))
+)
