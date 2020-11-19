@@ -1,1 +1,1 @@
-("~/CS430/" "~/ECE303/" "~/fpga_cores/" "~/ECEC413/" "~/RISC-V-CPU/" "~/FPGA-Tcl-Scripts/")
+("~/wayvnc/" "~/CS430/" "~/fpga_cores/" "~/neatvnc/" "~/ECE303/" "~/ECEC413/" "~/RISC-V-CPU/" "~/FPGA-Tcl-Scripts/")
