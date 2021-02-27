@@ -1,1 +1,0 @@
-("~/fpga_cores/" "~/RISC-V-CPU/" "~/FPGA-Tcl-Scripts/")
